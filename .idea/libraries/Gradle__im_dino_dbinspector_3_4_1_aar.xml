@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: im.dino:dbinspector:3.4.1@aar">
+    <CLASSES>
+      <root url="jar://E:/Android_AVD_HOME/.android/build-cache/36d50b75117a1083415caaaf35b3e6aed6dd70bf/output/jars/classes.jar!/" />
+      <root url="file://E:/Android_AVD_HOME/.android/build-cache/36d50b75117a1083415caaaf35b3e6aed6dd70bf/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
